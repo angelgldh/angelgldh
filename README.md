@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Angel! 👋
+I'm a Statistics MSc student at ETH Zurich 🎓 and a Data Science Intern at Roche 💼, passionate about AI and ML 🤖. I'm particularly interested in applying these techniques to big-impact real-world problems. 
+
+I'm an easy-going person who loves sports 🏃‍♂️ and reading 📚. Book recommendations are very welcome!
+
+About Me 🙋‍♂️
+Throughout my academic and professional journey, I've focused on deepening my knowledge in AI, ML, and Data Science. Why? Because I believe that these areas have an unique potential to change the world for the better🌱.
 
 <!--
 **angelgldh/angelgldh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
