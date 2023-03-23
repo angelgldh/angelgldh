@@ -55,8 +55,8 @@ The data science space is just huge, and I am excited about improving my knowled
 ## My GitHub Projects 💻
 I am happy to keep growing my GitHub! These are the main repositories github.com/angelgldh has at the moment:
 
-- [ethz_school_work](angelgldh/ethz_schol_work): A collection of projects from my university courses, covering topics like introductory ML methods, Bayesian approaches, and reinforcement learning.
-- HackerRank: I regularly participate in HackerRank challenges. Most of the problems are part of the *AI > Statistics and Machine Learning* category 🧩.
+- [ethz_school_work](https://github.com/angelgldh/ethz_school_work): A collection of projects from my university courses, covering topics like introductory ML methods, Bayesian approaches, and reinforcement learning.
+- [HackerRank](https://github.com/angelgldh/HackerRank): I regularly participate in HackerRank challenges. Most of the problems are part of the *AI > Statistics and Machine Learning* category 🧩.
 - Recommendation System (WIP): Working on a project to develop a recommendation system for personalized user experiences.
 - Sign Recognition Kaggle (WIP): Developing a computer vision model for sign recognition as part of a Kaggle competition 🚦.
 
