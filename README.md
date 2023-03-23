@@ -23,10 +23,15 @@ I gathered experience in multiple roles that contributed to my growth in the dat
 
 
 ### Random achievements I am proud of 🌟
+
 International Chemistry Academic Olympiad medalist 🥇
+
 Medalist in both Chemistry and Physics Olympiads 🏅
+
 Worked as a pro-bono consulting project manager 🌍
+
 Not-yet-confirmed entrepreneur 💡
+
 Marathon finisher 🏃‍
 
 
