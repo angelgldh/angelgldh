@@ -26,7 +26,7 @@ I gathered experience in multiple roles that contributed to my growth in the dat
 
 International Chemistry Academic Olympiad medalist 🥇
 
-Medalist in both Chemistry and Physics Olympiads 🏅
+Medalist in both Chemistry and Physics National Olympiads 🏅
 
 Worked as a pro-bono consulting project manager 🌍
 
