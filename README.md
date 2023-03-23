@@ -60,7 +60,7 @@ I am happy to keep growing my GitHub! These are the main repositories github.com
 - Recommendation System (WIP): Working on a project to develop a recommendation system for personalized user experiences.
 - Sign Recognition Kaggle (WIP): Developing a computer vision model for sign recognition as part of a Kaggle competition 🚦.
 
-Thanks for reading until here, I hope you enjoyed knowing a bit more about myself and my interests. Feel free to explore my repositories and connect with me on [LinkedIn](linkedin.com/in/angel-garcia-lopez-de-haro/)
+Thanks for reading until here, I hope you enjoyed knowing a bit more about myself and my interests. Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/angel-garcia-lopez-de-haro/)
 
 
 <!--
