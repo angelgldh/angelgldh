@@ -9,16 +9,10 @@ Throughout my academic and professional journey, I've focused on deepening my kn
 ## Professional and academic training 🚀
 ### Work Experience 💼
 - **Data Science Intern at Roche**: 
-Developed descriptive and predictive models in healthcare using R and Python. Worked on data visualization, data wrangling, and machine learning model implementation. 
-
-My past projects include developing a machine learning model for disease positivity prediction, working with highly unbalanced datasets, and improving model interpretability and transferability. 
-
-I have been utilizing Utilized various of the classic R packages and Python libraries for data analysis and machine learning: ggplot2, dplyr, caret, xgboost, and randomForest; scikit-learn, pandas, matplotlib, seaborn, nltk...
+Developed descriptive and predictive models in healthcare using R and Python. Worked on data visualization, data wrangling, and machine learning model implementation. My past projects include developing a machine learning model for disease positivity prediction, working with highly unbalanced datasets, and improving model interpretability and transferability. I have been working with the most frequent R packages and Python libraries for data analysis and machine learning: ggplot2, dplyr, caret, xgboost, and randomForest; scikit-learn, pandas, matplotlib, seaborn, nltk...
 
 - What was I before an official "Data Scientist"?
-I gathered experience in multiple roles that contributed to my growth in the data field. As a **Management Consultant** in a boutique firm in Spain, I honed my soft skills and worked extensively with business data, which inspired me to pursue Data Science.
-
-Later, as a **R&D Project Engineer** in a spin-off company, I developed quantitative algorithms for medical device optimization, focusing on data-driven solutions. This experience sparked my passion for entrepreneurship and led me to publish my [first first-author paper](https://opg.optica.org/ao/viewmedia.cfm?uri=ao-61-27-8091), adapting genetic algorithms to signal processing.
+I gathered experience in multiple roles that contributed to my growth in the data field. As a **Management Consultant** in a boutique firm in Spain, I honed my soft skills and worked extensively with business data, which inspired me to pursue Data Science. Later, as a **R&D Project Engineer** in a spin-off company, I developed quantitative algorithms for medical device optimization, focusing on data-driven solutions. This experience sparked my passion for entrepreneurship and led me to publish my [first first-author paper](https://opg.optica.org/ao/viewmedia.cfm?uri=ao-61-27-8091), adapting genetic algorithms to signal processing.
 
 ### Academic Training 🎓
 - Master's in **Statistics**: I decided to pursue my Master's in Statistics to gain a deeper understanding of the statistical foundations of machine learning and AI. My goal? To understand the inner workings of ML and AI algorithms. I wanted to go from merely running algorithms to understanding the inner mechanisms of machine learning model development and optimization.
