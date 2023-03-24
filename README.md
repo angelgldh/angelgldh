@@ -44,8 +44,6 @@ I am happy to keep growing my GitHub! These are the main repositories github.com
 - Recommendation System (WIP): Working on a project to develop a recommendation system for personalized user experiences.
 - Sign Recognition Kaggle (WIP): Developing a computer vision model for sign recognition as part of a Kaggle competition.
 
-Thanks for reading until here, I hope you enjoyed knowing a bit more about myself and my interests. Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/angel-garcia-lopez-de-haro/)
-
 
 ## Professional and academic training 🚀
 ### Work Experience 💼
@@ -60,6 +58,8 @@ I gathered experience in multiple roles that contributed to my growth in the dat
 
 - Bachelor's in **Engineering** (Major in Biomedical Engineering): I chose Biomedical Engineering because I always wanted to apply engineering thinking and quantitative methods to high-impact real-world problems. And what is more "high-impact-and-real-world" than healthcare? However, as I progressed in my career, I realized that the Data Science field was the best driver to achieve this goal.
 
+
+Thanks for reading until here, I hope you enjoyed knowing a bit more about myself and my interests. Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/angel-garcia-lopez-de-haro/)
 
 
 <!--
