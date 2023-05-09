@@ -1,7 +1,4 @@
 # Hi there, I'm Angel!
-I'm a Statistics MSc student at ETH Zurich and a Data Science Intern at Roche, passionate about AI and ML 🤖. I'm particularly interested in applying these techniques to big-impact real-world problems. 
-
-I'm an easy-going person who loves sports 🏃‍♂️ and reading 📚. Book recommendations are very welcome!
 
 ## About Me 🙋‍♂️
 Throughout my academic and professional journey, I've focused on deepening my knowledge in AI, ML, and Data Science. Why? Because I believe that these areas have an unique potential to change the world for the better🌱.
@@ -44,6 +41,10 @@ I am happy to keep growing my GitHub! These are the main repositories github.com
 - Recommendation System (WIP): Working on a project to develop a recommendation system for personalized user experiences.
 - Sign Recognition Kaggle (WIP): Developing a computer vision model for sign recognition as part of a Kaggle competition.
 
+Thanks for reading until here, I hope you enjoyed knowing a bit more about myself and my interests. Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/angel-garcia-lopez-de-haro/)
+
+
+<!--
 
 ## Professional and academic training 🚀
 ### Work Experience 💼
@@ -59,10 +60,10 @@ I gathered experience in multiple roles that contributed to my growth in the dat
 - Bachelor's in **Engineering** (Major in Biomedical Engineering): I chose Biomedical Engineering because I always wanted to apply engineering thinking and quantitative methods to high-impact real-world problems. And what is more "high-impact-and-real-world" than healthcare? However, as I progressed in my career, I realized that the Data Science field was the best driver to achieve this goal.
 
 
-Thanks for reading until here, I hope you enjoyed knowing a bit more about myself and my interests. Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/angel-garcia-lopez-de-haro/)
 
 
-<!--
+
+
 **angelgldh/angelgldh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
