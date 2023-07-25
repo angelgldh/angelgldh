@@ -1,26 +1,10 @@
 # Hi there, I'm Angel!
 
-## About Me 🙋‍♂️
-Throughout my academic and professional journey, I've focused on deepening my knowledge in AI, ML, and Data Science. Why? Because I believe that these areas have an unique potential to change the world for the better🌱.
-
-### Random achievements I am proud of 🌟
-
-International Chemistry Academic Olympiad medalist 🥇
-
-Medalist in both Chemistry and Physics National Olympiads 🏅
-
-Worked as a pro-bono consulting project manager 🌍
-
-Not-yet-confirmed entrepreneur 💡
-
-Marathon finisher 🏃‍
-
-
 ## Areas of Interest 🎯
 ### Main Expertise: ML and Stats 
 - Machine Learning: I'm passionate about working with tabular data and ensemble methods (who doesn't like a random forest ). I have learned, I am still learning and I will always keep learning about robust and interpretable models that solve real-world problems.
 
-- Statistical Methods: I always have an eye at the stats behing any method I train. Having experience in statistical modeling I always try to look for the underlying assumptions and limitations of various ML algorithms. 
+- Statistical Methods: I always have an eye on the stats behind any method I train. Having experience in statistical modeling I always try to look for the underlying assumptions and limitations of various ML algorithms. 
 
 ### Areas of Further Development and Interest 
 The data science space is just huge, and I am excited about improving my knowledge in all of the following fields.
@@ -38,13 +22,30 @@ I am happy to keep growing my GitHub! These are the main repositories github.com
 
 - [ethz_school_work](https://github.com/angelgldh/ethz_school_work): A collection of projects from my university courses, covering topics like introductory ML methods, Bayesian approaches, and reinforcement learning.
 - [HackerRank](https://github.com/angelgldh/HackerRank): I regularly participate in HackerRank challenges. Most of the problems are part of the *AI > Statistics and Machine Learning* category.
-- Recommendation System (WIP): Working on a project to develop a recommendation system for personalized user experiences.
-- Sign Recognition Kaggle (WIP): Developing a computer vision model for sign recognition as part of a Kaggle competition.
+- [RSV modelling and transfer learning](https://github.com/angelgldh/rsv_modelling_transfer_learning): Big research project I am working on right now!
 
-Thanks for reading until here, I hope you enjoyed knowing a bit more about myself and my interests. Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/angel-garcia-lopez-de-haro/)
+Thanks for reading all of this!
 
 
 <!--
+
+
+## About Me 🙋‍♂️
+Throughout my academic and professional journey, I've focused on deepening my knowledge in AI, ML, and Data Science. Why? Because I believe that these areas have an unique potential to change the world for the better🌱.
+
+### Random achievements I am proud of 🌟
+
+International Chemistry Academic Olympiad medalist 🥇
+
+Medalist in both Chemistry and Physics National Olympiads 🏅
+
+Worked as a pro-bono consulting project manager 🌍
+
+Not-yet-confirmed entrepreneur 💡
+
+Marathon finisher 🏃‍
+
+
 
 ## Professional and academic training 🚀
 ### Work Experience 💼
